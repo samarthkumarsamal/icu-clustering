@@ -1,0 +1,7 @@
+metric,value
+Number of clusters,23.0
+Number of outliers,576.0
+Outlier percentage,7.531380753138076
+Silhouette Score,0.5604903101921082
+Davies-Bouldin Index,0.3359763164574699
+Calinski-Harabasz Index,4696.96484375

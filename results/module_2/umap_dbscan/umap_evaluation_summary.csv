@@ -1,0 +1,5 @@
+metric,our_replication,ju_dubin_paper
+Number of clusters,22.0,22.0
+Silhouette Score,0.8866933584213257,0.84
+Davies-Bouldin Index,0.09839870447311246,0.09
+Calinski-Harabasz Index,64673.26953125,54413.23
