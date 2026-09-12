@@ -1,0 +1,4 @@
+method,main_parameters,epsilon_multiplier,epsilon,number_of_clusters,number_of_outliers,outlier_percentage,smallest_cluster_size,silhouette_score,davies_bouldin_index,calinski_harabasz_index,combined_rank
+t-SNE + DBSCAN,perplexity=70,0.8,7.152356539636337,13,56,0.7125588497264284,95,0.5437742471694946,0.5492911203467924,10800.525613822623,6.0
+UMAP + DBSCAN,"n_neighbors=60, min_dist=0.0",0.9,2.6519435631234756,17,76,0.9670441532001526,58,0.8972400426864624,0.2419293172646362,204514.36171425573,5.0
+VAE + DBSCAN,"hidden=(256, 128), lr=0.0004, beta=0.25",0.9,0.056687953496451914,21,241,3.066547906858379,51,0.9384878277778625,0.1446306050100466,635372.705302155,19.0

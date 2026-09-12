@@ -1,71 +1,71 @@
-feature
+feature_name
 age
 gender
 admissionheight
 admissionweight
-min_BUN
-min_Hgb
-min_WBC x 1000
-min_anion gap
-min_bicarbonate
-min_chloride
-min_creatinine
-min_glucose
-min_lactate
-min_platelets x 1000
-min_potassium
-min_sodium
-max_BUN
-max_Hgb
-max_WBC x 1000
-max_anion gap
-max_bicarbonate
-max_chloride
-max_creatinine
-max_glucose
-max_lactate
-max_platelets x 1000
-max_potassium
-max_sodium
-mean_BUN
-mean_Hgb
-mean_WBC x 1000
-mean_anion gap
-mean_bicarbonate
-mean_chloride
-mean_creatinine
-mean_glucose
-mean_lactate
-mean_platelets x 1000
-mean_potassium
-mean_sodium
-std_BUN
-std_Hgb
-std_WBC x 1000
-std_anion gap
-std_bicarbonate
-std_chloride
-std_creatinine
-std_glucose
-std_lactate
-std_platelets x 1000
-std_potassium
-std_sodium
-total_lab_measurements
-sao2_fpc1
-sao2_fpc2
-sao2_fpc3
-sao2_fpc4
-sao2_fpc5
-sao2_fpc6
-sao2_fpc7
-sao2_fpc8
-hr_fpc1
-hr_fpc2
-rr_fpc1
-rr_fpc2
-rr_fpc3
-rr_fpc4
+BUN_min
+Hgb_min
+WBC x 1000_min
+anion gap_min
+bicarbonate_min
+chloride_min
+creatinine_min
+glucose_min
+lactate_min
+platelets x 1000_min
+potassium_min
+sodium_min
+BUN_max
+Hgb_max
+WBC x 1000_max
+anion gap_max
+bicarbonate_max
+chloride_max
+creatinine_max
+glucose_max
+lactate_max
+platelets x 1000_max
+potassium_max
+sodium_max
+BUN_mean
+Hgb_mean
+WBC x 1000_mean
+anion gap_mean
+bicarbonate_mean
+chloride_mean
+creatinine_mean
+glucose_mean
+lactate_mean
+platelets x 1000_mean
+potassium_mean
+sodium_mean
+BUN_std
+Hgb_std
+WBC x 1000_std
+anion gap_std
+bicarbonate_std
+chloride_std
+creatinine_std
+glucose_std
+lactate_std
+platelets x 1000_std
+potassium_std
+sodium_std
+lab_measurement_count
+sao2_fpc_1
+sao2_fpc_2
+sao2_fpc_3
+sao2_fpc_4
+sao2_fpc_5
+sao2_fpc_6
+sao2_fpc_7
+sao2_fpc_8
+heartrate_fpc_1
+heartrate_fpc_2
+respiration_fpc_1
+respiration_fpc_2
+respiration_fpc_3
+respiration_fpc_4
 ethnicity_African American
 ethnicity_Asian
 ethnicity_Caucasian
