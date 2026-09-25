@@ -1,0 +1,81 @@
+feature_name
+age
+gender
+admissionheight
+admissionweight
+BUN_min
+Hgb_min
+WBC x 1000_min
+anion gap_min
+bicarbonate_min
+chloride_min
+creatinine_min
+glucose_min
+lactate_min
+platelets x 1000_min
+potassium_min
+sodium_min
+BUN_max
+Hgb_max
+WBC x 1000_max
+anion gap_max
+bicarbonate_max
+chloride_max
+creatinine_max
+glucose_max
+lactate_max
+platelets x 1000_max
+potassium_max
+sodium_max
+BUN_mean
+Hgb_mean
+WBC x 1000_mean
+anion gap_mean
+bicarbonate_mean
+chloride_mean
+creatinine_mean
+glucose_mean
+lactate_mean
+platelets x 1000_mean
+potassium_mean
+sodium_mean
+BUN_std
+Hgb_std
+WBC x 1000_std
+anion gap_std
+bicarbonate_std
+chloride_std
+creatinine_std
+glucose_std
+lactate_std
+platelets x 1000_std
+potassium_std
+sodium_std
+lab_measurement_count
+sao2_fpc_1
+sao2_fpc_2
+sao2_fpc_3
+sao2_fpc_4
+sao2_fpc_5
+sao2_fpc_6
+sao2_fpc_7
+sao2_fpc_8
+heartrate_fpc_1
+heartrate_fpc_2
+respiration_fpc_1
+respiration_fpc_2
+respiration_fpc_3
+respiration_fpc_4
+ethnicity_African American
+ethnicity_Asian
+ethnicity_Caucasian
+ethnicity_Hispanic
+ethnicity_Native American
+ethnicity_Other/Unknown
+unittype_CCU-CTICU
+unittype_CTICU
+unittype_Cardiac ICU
+unittype_MICU
+unittype_Med-Surg ICU
+unittype_Neuro ICU
+unittype_SICU

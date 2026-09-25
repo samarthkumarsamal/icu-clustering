@@ -1,0 +1,2 @@
+k,Mean_Internal_Validation_Rank,Mean_Stability_ARI,Mean_Cross_Embedding_ARI,Mean_Smallest_Cluster_Percentage,Minimum_Cluster_Percentage,Validation_Rank,Stability_Rank,Agreement_Rank,Size_Rank,Overall_Evidence_Rank
+6,4.916666666666666,0.9857837215078441,0.8468956568024143,7.663188700852526,5.369639903295584,5.0,4.0,2.0,4.0,3.75
