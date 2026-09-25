@@ -1,4 +1,0 @@
-method,perplexity,n_neighbors,min_dist,hidden_layers,learning_rate,beta,embedding_dimensions,dbscan_min_samples,epsilon_multiplier,epsilon
-t-SNE + DBSCAN,70.0,,,,,,2,50,0.8,7.152356539636337
-UMAP + DBSCAN,,60.0,0.0,,,,2,50,0.9,2.6519435631234756
-VAE + DBSCAN,,,,"(256, 128)",0.0004,0.25,2,50,0.9,0.056687953496451914
